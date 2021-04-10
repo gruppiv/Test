@@ -1,0 +1,20 @@
+reverse_rec
+0 
+reverse_rec
+1 4
+reverse_rec
+2 3 5
+reverse_rec
+3 5 9 7
+reverse_rec
+4 28 29 10 32
+reverse_rec
+5 29 88 119 36 63
+reverse_rec
+6 198 85 119 209 54 219
+reverse_rec
+7 54 210 276 27 280 332 265
+reverse_rec
+8 162 370 283 387 505 194 481 272
+reverse_rec
+9 645 440 565 137 707 308 631 492 631
